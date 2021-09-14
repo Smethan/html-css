@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.sideColor {
+    background-color: grey;
+    width: 200px;
+    height: 600px;
+}
+.bottomColor{
+    background-color: black;
+    height: 100px;
+}
+.test {
+    background-color: darkgrey;
+    height: 200px;
+}
+html,body {
+    height: 100%;
+}
